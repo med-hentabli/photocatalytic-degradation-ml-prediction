@@ -1,6 +1,0 @@
-Model,N_trials,Best_CV_RMSE,n_estimators,max_depth,learning_rate,subsample,colsample_bytree,min_child_weight,reg_alpha,reg_lambda,min_samples_split,min_samples_leaf,max_features,bootstrap,kernel,C,epsilon,gamma,hidden_layer_sizes,activation,alpha,learning_rate_init
-XGBoost,80,0.07665254930640861,1117.0,5.0,0.05303065599691356,0.685148693397346,0.9414292228324098,0.22842228335951997,0.03401735990816573,7.473699421220946e-05,,,,,,,,,,,,
-ExtraTrees,80,0.09283273918316683,1139.0,20.0,,,,,,,2.0,1.0,,,,,,,,,,
-RandomForest,80,0.10041204127364245,1118.0,30.0,,,,,,,2.0,1.0,,True,,,,,,,,
-SVR,80,0.13691704089196724,,,,,,,,,,,,,rbf,1182.5121974908993,1.8757420961484536e-05,auto,,,,
-ANN,80,0.20509638596368554,,,,,,,,,,,,,,,,,128_64,relu,0.0013759202769516616,0.0043501315223943935
