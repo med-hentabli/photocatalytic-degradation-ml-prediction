@@ -1,4 +1,4 @@
-# Photocatalytic Degradation ML Prediction — V6 k*=1
+# Photocatalytic Degradation ML Prediction
 
 Reproducible deployment package for predicting the residual concentration ratio (`c/c0`) and degradation percentage in heterogeneous photocatalytic systems.
 
