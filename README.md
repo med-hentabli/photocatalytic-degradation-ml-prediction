@@ -19,6 +19,12 @@ The repository corresponds to the **final constrained minimal-k analysis (`k = 1
 
 The all-model bundle stores the fitted models and the preprocessing objects learned from the training set.
 
+## Live web application
+
+The public Streamlit deployment is available at:
+
+https://photocatalytic-degradation-ml-prediction-fxexreoiber4vbbrlbhx4.streamlit.app/
+
 ## Repository contents
 
 - `app.py` — Streamlit prediction interface
